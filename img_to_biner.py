@@ -1,8 +1,6 @@
 import cv2
 import csv
 from glob import glob
-import numpy as np
-import matplotlib.pyplot as plt
 
 img_path = 'resources/data/*.jpg'
 img_dir = 'resources/data/'
