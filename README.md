@@ -1,2 +1,2 @@
 # research
-TA - Machine Learning
+Tugas Akhir - Machine Learning
